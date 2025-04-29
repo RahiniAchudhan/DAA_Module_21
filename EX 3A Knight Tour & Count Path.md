@@ -1,5 +1,5 @@
 # EX 3A Knight Tour & Count Path
-## DATE: 19/03/2025
+## DATE: 15/03/2025
 ## AIM:
 To write a python program to find minimum steps to reach to specific cell in minimum moves by knight
 
